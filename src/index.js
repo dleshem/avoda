@@ -1,3 +1,3 @@
-import LikudClient from './LikudClient.js'
+import AvodaClient from './AvodaClient.js'
 
-module.exports = LikudClient;
+module.exports = AvodaClient;
